@@ -2,8 +2,6 @@
 title: "Legal"
 date: 2024-11-12T00:21:22+01:00
 draft: true
-cascade:
-  type: docs
 ---
 
 **Impressum**

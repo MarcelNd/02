@@ -1,17 +1,30 @@
 ---
-title: My Site
+title: Welcome to my Blog
 toc: false
 ---
-
-This is the landing page.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+{{< card link="../callout" title="Computer Science" icon="wifi" tag= "New" >}}
+{{< card link="../callout" title="Biology" icon="heart" tag= "New" >}}
+{{< card link="../blog" title="Game Development" icon="puzzle" tag= "New" >}}
+{{< card link="../blog/other" title="Other" icon="light-bulb" tag= "New" >}}
+{{< /cards >}}  
+
+### Featured
+
+{{< cards >}}
+{{< card link="/" title="Soon" image="" subtitle="Soon" >}}
+{{< card link="/" title="Soon" image="" subtitle="Soon" >}}
 {{< /cards >}}
 
-## Documentation
+<br>
+<br>
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+
+## What?
+
+This is essentially just a site to write about everything i learn and find interesting.
+
+I'm a computer science student with a strong interest in human biology and its intersection with computer science. Additionally, I develop games and occasionally web applications.

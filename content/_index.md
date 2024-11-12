@@ -6,9 +6,9 @@ toc: false
 ## Explore
 
 {{< cards >}}
-{{< card link="../callout" title="Computer Science" icon="wifi" tag= "New" >}}
-{{< card link="../callout" title="Biology" icon="heart" tag= "New" >}}
-{{< card link="../blog" title="Game Development" icon="puzzle" tag= "New" >}}
+{{< card link="../blog/it" title="Computer Science" icon="wifi" tag= "New" >}}
+{{< card link="../blog/lifeScience" title="Biology" icon="heart" tag= "New" >}}
+{{< card link="../blog/gamedev" title="Game Development" icon="puzzle" tag= "New" >}}
 {{< card link="../blog/other" title="Other" icon="light-bulb" tag= "New" >}}
 {{< /cards >}}  
 

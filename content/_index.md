@@ -7,7 +7,7 @@ toc: false
 
 {{< cards >}}
 {{< card link="../02/blog/it" title="Computer Science" icon="wifi" tag= "New" >}}
-{{< card link="../02/blog/lifeScience" title="Biology" icon="heart" tag= "New" >}}
+{{< card link="../02/blog/lifescience" title="Biology" icon="heart" tag= "New" >}}
 {{< card link="../02/blog/gamedev" title="Game Development" icon="puzzle" tag= "New" >}}
 {{< card link="../02/blog/other" title="Other" icon="light-bulb" tag= "New" >}}
 {{< /cards >}}  
